@@ -1,4 +1,4 @@
-# microsoft-workshop
+# MemeGenerator @ microsoft-workshop
 ### this whole react interface is the output of my implications of github-copilot codespaces, using copilot as agent.
 
 ## User interface:
